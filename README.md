@@ -24,7 +24,6 @@
 
 <p align="center">
   <a href="https://shahzadms7.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-4285F4?style=for-the-badge" /></a>
-  <a href="mailto:shahzad.ms@yahoo.com"><img src="https://img.shields.io/badge/✉️_Email-Hire_Me-34A853?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/shahzadms"><img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
 </p>
 
@@ -76,6 +75,6 @@ Microsoft Certified: Azure Solutions Architect Expert · SC-200 · SC-300 · AZ-
 
 I'm actively seeking **on-site roles in the Greater Toronto Area, 5 days per week** (full-time and contract — Canadian market only). Immediately available, zero notice period.
 
-📧 **[shahzad.ms@yahoo.com](mailto:shahzad.ms@yahoo.com)** &nbsp;·&nbsp; 🔗 **[linkedin.com/in/shahzadms](https://linkedin.com/in/shahzadms)** &nbsp;·&nbsp; 🌐 **[shahzadms7.github.io](https://shahzadms7.github.io)**
+🔗 **[linkedin.com/in/shahzadms](https://linkedin.com/in/shahzadms)** &nbsp;·&nbsp; 🌐 **[shahzadms7.github.io](https://shahzadms7.github.io)**
 
 <p align="center"><i>34 years of real, delivered work — no fluff, no fabrication.</i></p>
