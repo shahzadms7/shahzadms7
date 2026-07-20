@@ -64,6 +64,30 @@ Currently: **Principal Architect + Fractional CTO (ENDevo) + Founder/CEO (Alfala
 
 Microsoft Certified: Azure Solutions Architect Expert · SC-200 · SC-300 · AZ-104 · SC-400 · M365 Enterprise Administrator Expert · AZ-900/MS-900/SC-900 · MCSE: Cloud Platform and Infrastructure — Charter Member (2016) · AWS Certified Solutions Architect Associate · AWS Certified Developer Associate · VMware VCP5/6/6.5-DCV · ISO/IEC 27001:2022 Lead Implementer · ITIL v4 Foundation · CISSP (exam-ready) · SC-100 (exam-ready) · 21 Anthropic/Claude 2026 credentials · [full list →](https://shahzadms7.github.io/certifications.html)
 
+### 🤝 Clients &amp; Partners — 42+ Across 6 Continents
+
+Throughout my 34-year career (1992–2026), I have delivered technology solutions to 42+ clients across financial services, government/defense, healthcare, insurance, manufacturing, legal, and technology sectors globally.
+
+**Selected clients (publicly disclosable):**
+- 🇸🇦 Saudi Arabia: Riyadh Bank, Alinma Bank, Tokio Marine Insurance, Hussein Aoueini Co., Ltd
+- 🇨🇦 Canada: Gore Mutual Insurance, Sick Kids Hospital, Ottawa Airport, Town of Milton, Lewis Legal, Lewis Associates LLP, Lewis Law, Pari Law, Path Law, Allied Immigration, Countax Services Inc, Global Travel & Tours, Minhaj TV Production, MMCC Charity Donation, Healthy Planet, Canada Cloud Solution, Reflect Integrated MSP, Calians MSSP, Vet Strategy Health, Zoho Canada, Cronomagic Canada Inc, Hays Recruiter
+- 🇺🇸 USA: Blue Sprout Agency, GreenVault Inc
+- 🇵🇰 Pakistan: Pak Cement, Essa Cement, Attack Cement
+- 🇧🇭 Bahrain: Arab Eastern Insurance Co.
+- 🇯🇵 Japan: Tokio Marine Insurance Co.
+- 🇮🇳 India: 3i Infotech
+- 🇷🇴 Romania: Axigen
+
+🔒 **Additionally, multiple clients under NDA** in Saudi Arabia, USA, and Canada — including defense agencies, major banks, and global insurers.
+
+**Industries:** Banking · Insurance · Government/Defense · Healthcare · Manufacturing · Legal · Technology · MSP/MSSP · Retail · Non-Profit · Media · Travel · Taxation · Charity · Education · Aerospace · Telecommunications
+
+**Work arrangements:** Direct Employment · Fractional CTO · Contract/Project-Based · Part-Time · Full-Time · Fractional Advisory
+
+**Geographic reach:** North America · Middle East · Asia · Europe
+
+*(See the full [Clients & Partners page →](https://shahzadms7.github.io/clients.html))*
+
 ### 📈 GitHub Stats
 
 <p align="left">
